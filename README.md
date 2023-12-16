@@ -2,4 +2,4 @@
 
 ## link
 
-https://alysondev.github.io/salaJam/
+https://alysondev.github.io/salajam/
